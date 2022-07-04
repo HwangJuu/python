@@ -194,4 +194,8 @@ Lib/
 include/
 pyvenv.cfg
 
+chromedriver.exe
+RPAbasic/crawl/image/
+
+
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,python
